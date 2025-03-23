@@ -17,6 +17,12 @@
 
 ## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SifanGeremu&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifanGeremu&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SifanGeremu&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SifanGeremu&color=blue)
+
+
 
 📫 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
