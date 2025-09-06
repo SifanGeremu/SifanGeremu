@@ -5,7 +5,7 @@
 
 ## 🔥 About Me  
 - 💻 Passionate about **JavaScript, React, Node.js, and MySQL**  
-- 📊 Learning **Data Science & Machine Learning**  
+- 📊 Learning **Machine Learning**  
 - 🎯 Focused on **building high-performance web applications**  
 - 🌐 Check out my portfolio: [(https://sifantechcompany-qgy41buyz-sifan-geremus-projects.vercel.app/)]  
 
