@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Sifan Geremu!
 
-🚀 **Full-Stack Developer | Web & App Developer | SEO Optimizer**  
+ **Full-Stack Developer | Web & App Developer | SEO Optimizer**  
 🌍 Based in Addis Ababa  
 
 ## 🔥 About Me  
 - 💻 Passionate about **JavaScript, React, Node.js, and MySQL**  
 - 📊 Learning **Machine Learning**  
 - 🎯 Focused on **building high-performance web applications**  
-- 🌐 Check out my portfolio: [(https://sifantechcompany-qgy41buyz-sifan-geremus-projects.vercel.app/)]  
+- 🌐 Check out my portfolio: [(https://sifanthedeveloper.vercel.app/)]  
 
 ## 🛠️ Technologies & Tools  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
