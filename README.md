@@ -16,11 +16,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
 
 ## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=SifanGeremu&show_icons=true&theme=dark&cache_seconds=86400)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SifanGeremu&show_icons=true&theme=dark&cache_seconds=7200)
 
-![Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=SifanGeremu&layout=compact&theme=radical&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifanGeremu&layout=compact&theme=radical&cache_seconds=7200)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SifanGeremu&theme=radical)
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SifanGeremu&color=blue)
