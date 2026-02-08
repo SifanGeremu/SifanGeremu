@@ -1,31 +1,61 @@
-# 👋 Hi, I'm Sifan Geremu!
+# Hi, I’m SIFAN 👋
 
- **Full-Stack Developer | Web & App Developer | SEO Optimizer**  
-🌍 Based in Addis Ababa  
+Software Engineer with a strong backend core and a growing love for frontend systems and AI-powered applications.
 
-## 🔥 About Me  
-- 💻 Passionate about **JavaScript, React, Node.js, and MySQL**  
-- 📊 Learning **Machine Learning**  
-- 🎯 Focused on **building high-performance web applications**  
-- 🌐 Check out my portfolio: [(https://sifangeremu.vercel.app/))]  
+I enjoy designing reliable APIs, scalable architectures, and pairing them with clean, modern user interfaces.  
+Always learning. Always shipping. Staying calm.
 
-## 🛠️ Technologies & Tools  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
+---
 
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SifanGeremu&show_icons=true&theme=dark&cache_seconds=7200)
+## 🧩 Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SifanGeremu&layout=compact&theme=radical&cache_seconds=7200)
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,python,fastapi,mongodb,firebase" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SifanGeremu&theme=radical)
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
+### AI / LLM
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/RAGs-LLM%20Integrations-000000?style=flat&logo=openai&logoColor=white" />
+</p>
 
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,docker,linux" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SifanGeremu&color=blue)
+---
 
+## 🧠 What I care about
+
+- Backend architecture & API design  
+- Full-stack systems that actually scale  
+- LLM integrations (RAG pipelines, AI-enhanced apps)  
+- Writing code that’s understandable **six months later**
+
+I’m confident building production systems —  
+and curious enough to keep improving them.
+
+---
+
+## 📫 Contact
+
+- 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sifan-geremu)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourtwitter)  
+
+---
+
+## 🔥 Consistency
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagmawibabi&hide_border=true" />
+</p>
 
 
 📫 **Let's Connect:**  
