@@ -52,9 +52,8 @@ and curious enough to keep improving them.
 ---
 
 ## 🔥 Consistency
-[GitHub Streak](https://streak-stats.demolab.com?user=SifanGeremu&theme=radical)
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dagmawibabi&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SifanGeremu&theme=radical&hide_border=true" />
 </p>
 
 
