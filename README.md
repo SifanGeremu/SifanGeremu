@@ -39,7 +39,7 @@ Always learning. Always shipping. Staying calm.
 - LLM integrations (RAG pipelines, AI-enhanced apps)  
 - Writing code that’s understandable **six months later**
 
-I’m confident building production systems —  
+I’m confident building production systems 
 and curious enough to keep improving them.
 
 ---
