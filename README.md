@@ -5,7 +5,6 @@ Software Engineer with a strong backend core and a growing love for frontend sys
 I enjoy designing reliable APIs, scalable architectures, and pairing them with clean, modern user interfaces.  
 Always learning. Always shipping. Staying calm.
 
----
 
 ## 🧩 Tech Stack
 
@@ -30,7 +29,6 @@ Always learning. Always shipping. Staying calm.
   <img src="https://skillicons.dev/icons?i=git,postman,docker,linux" />
 </p>
 
----
 
 ## 🧠 What I care about
 
@@ -42,23 +40,17 @@ Always learning. Always shipping. Staying calm.
 I’m confident building production systems 
 and curious enough to keep improving them.
 
----
+
 
 ## 📫 Contact
 
 - 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sifan-geremu)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourtwitter)  
 
----
 
-## 🔥 Consistency
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=SifanGeremu&theme=radical&hide_border=true" />
-</p>
 
 
 📫 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sifan-geremu)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourtwitter)  
 
----
