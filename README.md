@@ -35,7 +35,7 @@ Always learning. Always shipping. Staying calm.
 - Backend architecture & API design  
 - Full-stack systems that actually scale  
 - LLM integrations (RAG pipelines, AI-enhanced apps)  
-- Writing code that’s understandable **six months later**
+- Writing code that’s understandable **years later**
 
 I’m confident building production systems 
 and curious enough to keep improving them.
